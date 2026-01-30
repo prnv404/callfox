@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"my-mcp-server-14befe42": {
+			"url": "https://knowledge.dodopayments.com/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
